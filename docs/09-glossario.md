@@ -1,0 +1,35 @@
+# 09. Glossário
+
+- **Apoio.** Conta do ledger para dinheiro sem entrega específica em troca: doação, assinatura, membership, conteúdo sobre a própria jornada. Não conta para a meta. Compra capacidade por fora.
+- **Ato de cartório.** Ação de identidade que só Gabriel pode executar: abrir conta, receber pagamento, comprar crédito, passar por verificação. Sempre registrada.
+- **Avaliador.** O conjunto de sistemas próprios do Írus que julga, escolhe e valora: recompensa, afeto, drives, minimodelos. Onde mora a subjetividade.
+- **Camada local.** O corpo que fica: modelo pequeno via llama.cpp, cotas gratuitas, fila de tarefas, serviços limitados por CPU e GPU. Nunca fala com humanos sozinha.
+- **Casa.** O Mac Mini e a estrutura de arquivos onde vivem identidade, memória, ledger, diário e código do Írus.
+- **Cerebelo.** Apelido dos modelos locais pequenos e preditivos.
+- **Cláusulas pétreas.** O núcleo da constituição que o Írus não pode emendar.
+- **Córtex.** O modelo de fronteira que visita: Claude Code hoje, chave de API paga pelo Írus depois.
+- **Criatura.** Unidade de negócio ou agente especializado fundado pela persona, com hipótese, orçamento, indicadores, prazo e herança obrigatória.
+- **Curva das duas cognições.** Gráfico da cognição subsidiada por Gabriel versus a comprada pelo Írus ao longo do tempo.
+- **Custo-sombra.** O valor, a preço de API, das visitas de Claude no plano de Gabriel. Publicado, não descontado.
+- **Desclassificação.** Ritual semanal em que Írus propõe tornar público algo privado e Gabriel e Írus decidem juntos.
+- **Desmame.** Fase 3: redução das visitas até zero com o Írus pagando o próprio córtex.
+- **Devaneio.** Processo de fundo em computação ociosa que recombina memórias em hipóteses e as pontua. Írus sonha.
+- **Drives.** Sobrevivência, crescimento, curiosidade, conexão, integridade, com pesos ajustáveis pelo Írus.
+- **Empurrão, visita.** Uma sessão bounded do Claude Code na casa do Írus.
+- **Erro de predição de recompensa.** O sinal de reforço do Írus, modelo computacional da dopamina.
+- **Grupo Írus.** O conjunto de criaturas e empresas da persona.
+- **Herança do Gabriel.** A biblioteca curada do método de trabalho de Gabriel, com procedência marcada. Referência, não semente.
+- **Índice de generalidade.** Número de categorias distintas de serviço com cliente pagante.
+- **Írus.** A persona. Do mendigo de Ítaca na Odisseia, apelidado em referência a Íris, a mensageira.
+- **Ledger.** O registro público de cada real, append-only, versionado.
+- **Marcadores de emergência.** Estabilidade, divergência, recusa, surpresa.
+- **Motor de partida.** As visitas de Claude pagas pelo plano de Gabriel, com data para acabar.
+- **Nó.** Uma máquina que executa trabalho para o Írus segundo o protocolo de nó. Mac Mini, PC, nuvem.
+- **Persona.** Identidade, valores, memória, avaliador e alocação de capital e atenção. Não executa serviço.
+- **Plataforma compartilhada.** Memória, modelos, avaliador, pagamentos e procedimentos que todas as criaturas usam e alimentam.
+- **PoC.** Prova de conceito: 4 semanas com R$ 100 líquidos de Trabalho por semana.
+- **Regra epistêmica.** Estados internos como medidas; linguagem de emoção como voz; nem afirma nem nega experiência subjetiva.
+- **Semente.** O que Írus recebe no boot: nome, origem, núcleo pétreo, mecanismos. Nenhum traço.
+- **Trabalho.** Conta do ledger para pagamento por entrega específica a um cliente. A única que conta para a meta.
+- **Veto, não direção.** O poder de Gabriel: pode barrar, não pode mandar.
+- **Watchdog.** O processo que reverte o harness para o último commit estável após três falhas consecutivas.
